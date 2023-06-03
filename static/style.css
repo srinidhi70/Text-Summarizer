@@ -1,0 +1,58 @@
+/* Apply a modern font stack */
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Create a centered container with a subtle shadow and border radius */
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  /* Center the heading and use a more readable color */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Add some spacing for the form */
+  form {
+    margin-top: 20px;
+  }
+  
+  /* Adjust the textarea dimensions and add a border */
+  textarea {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the submit button with a green background and white text */
+  input[type="submit"] {
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Add line height and font size to paragraphs */
+  p {
+    line-height: 1.5;
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
